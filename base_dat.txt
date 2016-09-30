@@ -1,0 +1,6 @@
+Fecha <<f>>. A las <<h>>
+Al alumno <<nom<bre>> <<apellido>>.
+Se le comunica mediante la presente. Que la calificacion
+de <<materia>> se ha revisado.
+Su examen esta <<condicion>> con una nota de <<nota>>.
+Atte. La facultad.

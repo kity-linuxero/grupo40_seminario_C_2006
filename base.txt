@@ -1,0 +1,5 @@
+Al alumno <<>> <<>>.
+Se le comunica mediante la presente. Que la calificacion
+de <<>> se ha revisado.
+Su examen esta <<>> con una nota de <<>>.
+Atte. La facultad.

@@ -1,0 +1,1 @@
+fecha|hora|nombre1|apellido1|facultad|
