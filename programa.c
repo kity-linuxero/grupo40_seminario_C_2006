@@ -67,9 +67,7 @@ int modo_2 (char *arg)
    if (!strcmp(arg, "/h")) //si el argumento pasado es el de la ayuda.
      { 
               
-     FILE* ayuda= fopen (FILE_HLP, "r");              
-     imprimir_ant (cargar_memoria(ayuda));
-     
+     printf(CONS_HLP);
      }
      else {
 

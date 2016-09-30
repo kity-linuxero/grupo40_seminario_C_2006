@@ -23,7 +23,9 @@
 #define NOM_PORDEFECTO ".\\source\\file.tmp" //es un nombre de archivo temporal por defecto
 #define NOM_TMP ".\\source\\mod_lin.tmp"
 #define NOM_MENU ".\\source\\menu.dat" //el nombre del menú será siempre el mismo, pero toda
-#define FILE_HLP ".\\source\\ayuda.dat"
+//#define FILE_HLP ".\\source\\ayuda.dat"
+// Para no depender de un archivo, se pone el texto de ayuda en esta constante.
+#define CONS_HLP "Realiza una combinacion de textos con un conjunto de datos a reemplazar\ny un texto base con campos variables.\n\nCOMBINAR\n	[/h]: Muestra en pantalla una descripcion del programa y sus funciones.\n	[archivo_base]: el programa se iniciara tomando el nombre de archivo\n                        especificado como el texto con campos variables. El \n                        usuario debera especificar el conjunto de datos.\n	\n	[archivo_base] [archivo_conjunto]: Combinacion de los dos archivos \n	                                   y los muestra en pantalla.\n    \n        [archivo_base] [archivo_conjunto] [/P]: Idem anterior.\n\n        [archivo_base] [archivo_conjunto] [/A] [archivo_resultado]: \n                                            El resultado se ve en un archivo.\n"
 #define RESULTADO_TMP ".\\source\\res_00.tmp"
 #define ARCH_CRT_TMP ".\\source\\crt.tmp"
 
