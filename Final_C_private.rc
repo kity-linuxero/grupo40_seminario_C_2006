@@ -8,8 +8,8 @@
 // TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
 //
 1 VERSIONINFO
-FILEVERSION 0,1,1,2943
-PRODUCTVERSION 0,1,1,2943
+FILEVERSION 0,1,1,2953
+PRODUCTVERSION 0,1,1,2953
 FILETYPE VFT_APP
 {
   BLOCK "StringFileInfo"
@@ -17,10 +17,10 @@ FILETYPE VFT_APP
     BLOCK "2C0A04E4"
     {
       VALUE "CompanyName", ""
-      VALUE "FileVersion", "0.1.1.2943"
-      VALUE "FileDescription", "Para Facultad de Informática"
+      VALUE "FileVersion", "0.1.1.2953"
+      VALUE "FileDescription", "Combinador de grupo40"
       VALUE "InternalName", ""
-      VALUE "LegalCopyright", ""
+      VALUE "LegalCopyright", "(c) 2006- Apache Licence 2.0"
       VALUE "LegalTrademarks", ""
       VALUE "OriginalFilename", ""
       VALUE "ProductName", "Combinador"
